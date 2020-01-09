@@ -1,3 +1,4 @@
+package maingame;
 
 
 import java.util.*;
